@@ -1,0 +1,22 @@
+{
+  "name": "WKWebTest",
+  "version": "0.1.0",
+  "summary": "A short description of WKWebTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/songxin/WKWebTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "songxin": "939997568@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/songxin/WKWebTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WKWebTest/Classes/**/*"
+}
